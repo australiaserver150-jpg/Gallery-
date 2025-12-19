@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Gallery - Android Style",
+  "description": "A high-performance, Android Material 3 styled gallery application built with React. It features media scanning, album organization, and a fullscreen viewer with gesture-like navigation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
